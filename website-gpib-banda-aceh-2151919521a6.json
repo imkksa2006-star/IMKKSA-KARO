@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "website-imkksa-banda-aceh-sekitar",
+  "private_key_id": "2151919521a6a0a82bc830ff8714120f80d5a796",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCw5VUGW3G/ebNT\nQgOpwbL77Dz1HRqvOz/LIEHNLTSV2Rt2Y3ReHkcegE2jm+/MTLHwkIiS8AtoL5qr\nN7MojBE1g6nAUWCzyMbnXFbtKetPeaf/e40gSRMmWHgLXWoartkdvbgaJjxJeWX0\nqiXNlwgVRbYeothG2McOW8+G/sw57sMsKVChypUn5qNzH4DK53a5RZVvOJSxEvSQ\nDVFagB9ox7g+HyK0rcPIE6FSZQZoKCLz7WKj4XCVcUeNA+0rj/4jtRVX1/ym8bDB\nbfOwJBLzy/GD5vNRSOYuN9RxCSzR1J4TtgTWbvPY9+26opqFwVksoeVLBK4mPiu+\nii/YMblnAgMBAAECggEACkEQ/7BXVKkiWwYtni6LSI02L2NDg7rkhMrW5aTkMneG\nXwN+4GHS75KybXSBnw8nFXHbaOEfWCfCSICPEx+jc72xHmPZPjK6TPkOVOskJ9Q+\nh9HKqX9y67sfIlGE8A0Iqu+vd1yWDBBMd7VRQayqnEkROI9qCBlS2KM70XB9uDHl\nQyguI0MwjcD5dsUVVN8HVCFiJa0bwnP6W+jlGnFefn87BrwHA8xITLkjpN5XxoPN\nK4GjgA69XgvMDXIGOq8xkpCFOqDlXQaZl5LTr+v+2sXkFEKJEz82ia8b9ymDqfsN\nYV1bQBfCR8RNXPU6ZCBX+CMHOQU9dpD1AioLuNURQQKBgQDlKkbvrXfehBpdb+VC\nAVQIQkA8FhCn5tvaW7+tAmUluuH3lXASpV5HVt8k8odioZkuM/lTIulqVx4hdMx3\n2wag0vTyXInqn3/udK/JMAy9DFc7dR8dp/F0DF7bIend8uSyuzaTwY+Iqfge6lQn\nirtSgA/yRNCk+mDbgV/1AGLohwKBgQDFnCs0C53cg8EBXQQx2jIuCHWpvGYGj5ti\nuCkvaAtHUTFTF2VKspEuV13WEJ7cHrpfvQBTC5DlGplbyPcgXDu35hJt1m+yWJRr\n1ObqxR2vV1WFdk/MG3lsRsyH8oBbGg3Qf3b6HVzd1uLj9JZ2H7MROKqFYji4Y24F\nKZ6LyDBAIQKBgQDApE2FZdmCYKKZMVsTpXIyjx7YY+QUgOkIImB626yTjwotyp2v\nzvv2FHz43jgZHadbQ62vyYVWM23MyhaoGqLzxuLKaig152bv2X98LLxIn3slLEu/\n7lH3L/79TwD95xWBegdjJi+2vsspkeq0YtcdfzHogxix1xhc7eDwYCbFOQKBgQC+\nwy2pxnUURVRynnrILV03tw7vVmIff05/lEyd6RDKPgUhs3ojDBK+67Q4TD8vO7Kr\nbWb8xDOSF4VoZ665XJCBzOaJhfK59m0BU7u/c55egC6c8kPCQ9uJvScBLgbe613e\nos4WUXYu6ZyKdrkxOxTAUTW8Ib+jsMiqzyywwAZkQQKBgQCqGU3/gQeKai9Qhs71\nCzaNrTiWVAQtt/HsD/kX3sToWRA+9hipJjoH/5V0CwmEitahmGWZvA0SKxVurZ0O\nQLk4HKV+1wiDMrkIbjKBv61XEqveGK3130gllgcVJ5wYOSOoJmIadAbnhAO35nkf\nXy68IcDvY/ELLlQpuYhXu9b3hw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "IMKKSA Banda Aceh sekitar-uploader@website-imkksa-banda-aceh-sekitar.iam.gserviceaccount.com",
+  "client_id": "114321285358957789252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imkksa%20Banda%20Aceh%20sekitar-uploader%40website-imkksa-banda-aceh-sekitar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
